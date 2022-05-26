@@ -7,12 +7,12 @@ export default function Post({ post }) {
 
             <div className='post-date'>Posted on {post.frontmatter.date}</div>
 
-            <h3>{post.frontmatter.title}</h3>
+            <h2>{post.frontmatter.title}</h2>
 
             <p>{post.frontmatter.excerpt}</p>
 
             <Link href={`/blog/${post.slug}`}>
-                <a className='btn'>Read More</a>
+                <a className='btn'>Mehr lesen</a>
             </Link>
         </div>
     )
