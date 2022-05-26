@@ -2,7 +2,7 @@
 title: 'So führen Sie ein Backlink-Audit durch'
 date: '26.05.2022'
 excerpt: 'Eine Backlink-Prüfung ist für SEO wichtig'
-cover_image: '/images/posts/img3.jpg'
+cover_image: '/images/posts/So-fuehren-Sie-ein-Backlink-Audit-durch.jpg'
 ---
 
 # So führen Sie ein Backlink-Audit durch
