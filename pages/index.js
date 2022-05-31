@@ -8,7 +8,6 @@ import { sortByDate } from '../utils'
 export default function Home({ posts }) {
   return (
       <div>
-    ja
           <Head>
               <title>Sales und Markteing</title>
           </Head>
