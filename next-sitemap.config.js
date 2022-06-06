@@ -11,7 +11,7 @@ const config = {
   // Default transformation function
   transform: async (config, path) => {
     return {
-      loc: path, // => this will be exported as http(s)://<config.siteUrl>/<path>
+      loc: path, https://sales-marketing.pages.dev/sitemap.env<config.siteUrl>/<path>
       changefreq: config.changefreq,
       priority: config.priority,
       lastmod: config.autoLastmod ? new Date().toISOString() : undefined,
