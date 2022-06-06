@@ -1,7 +1,7 @@
 /** @type {import('next-sitemap').IConfig} */
 
 const config = {
-  siteUrl: 'https://sales-marketing.pages.dev/',
+  siteUrl: 'https://sales-marketing.pages.dev/sitemap.xml',
   changefreq: 'daily',
   priority: 0.7,
   sitemapSize: 5000,
