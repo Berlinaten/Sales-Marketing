@@ -5,7 +5,7 @@ excerpt: 'Wie es darum geht, Klicks in Verkauf zu konvertieren'
 cover_image: '/images/posts/AdWords.jpg'
 ---
 
-#So konvertieren Sie Google AdWords-Klicks in den Verkauf
+## Erfolgreich Google AdWords-Klicks schalten
 
 Wenn es darum geht, Klicks in Verkauf zu konvertieren, können Sie einige Tricks verwenden. Wenn Sie Ihre Conversion -Rate erhöhen möchten, fügen Sie Ihrer Zielseite einen Conversion -Tracking -Code hinzu. Dieser Code sollte auf Ihre Dankeseite platziert werden, auf der Benutzer sehen können, wie viele Personen von Ihrer Anzeige konvertiert wurden. Der Code dauert einige Tage, um Ergebnisse zu sehen. Seien Sie also geduldig. Leistungsdaten sind von unschätzbarem Wert für die Feinabstimmung Ihrer Anzeigen.
 
