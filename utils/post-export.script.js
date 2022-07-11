@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 // base URL for your website
-const baseUrl = "https://cloudflare-pages-2-5zi.pages.dev"
+const baseUrl = "https://sales-marketing.pages.dev"
 
 // hardcoded URLs for static pages
 const SG_PAGES = [
