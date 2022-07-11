@@ -14,7 +14,7 @@ Verkaufssituationen bietet Vertriebs-Enablement-Schulungen für persönliche Int
 
 ## Verkäufer muss auf den Kunden eingehen können
 
-Wenn Ihre Verkäufer eine schwierige Frage beantworten müssen, verwenden Sie Situationsfragen, um Informationen über das Problem des Kunden und die von Ihrem Unternehmen angebotene Lösung zu ermitteln. Das [Stellen von Problemfragen zeigt] (https://www.verkaufstraining-vertriebsberatung.de/schwierige-situationen-im-verkaufsgesprach-meistern/), wie Ihr Produkt sein Problem lösen kann, aber es sollte Ihr Produkt nicht direkt erwähnen. Wenn Sie Situationsfragen verwenden, können Sie Verkäufe tätigen. Wenn Sie keine Zeit haben, diese Forschung durchzuführen, können Sie eine vorgeschriebene Frage verwenden, die die Vorteile Ihres Produkts beschreibt.
+Wenn Ihre Verkäufer eine schwierige Frage beantworten müssen, verwenden Sie Situationsfragen, um Informationen über das Problem des Kunden und die von Ihrem Unternehmen angebotene Lösung zu ermitteln. Das [Stellen von Problemfragen zeigt](https://www.verkaufstraining-vertriebsberatung.de/schwierige-situationen-im-verkaufsgesprach-meistern/), wie Ihr Produkt sein Problem lösen kann, aber es sollte Ihr Produkt nicht direkt erwähnen. Wenn Sie Situationsfragen verwenden, können Sie Verkäufe tätigen. Wenn Sie keine Zeit haben, diese Forschung durchzuführen, können Sie eine vorgeschriebene Frage verwenden, die die Vorteile Ihres Produkts beschreibt.
 
 ## Vertriebsstrategie heißt gut Verkaufen
 
