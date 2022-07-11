@@ -28,4 +28,4 @@ Der erste Schritt besteht darin, die Ziele des Trainingsprogramms zu identifizie
 
 Es ist auch wichtig, das Programm auf die Bedürfnisse Ihrer Mitarbeiter zuzuschneiden. Nicht alle Verkäufer sind gleich, also müssen Sie ein Programm erstellen, das für sie relevant und interessant ist. Möglicherweise müssen Sie das Programm im Laufe des Fortschritts auch anpassen, basierend auf dem Feedback der Teilnehmer.
 
-Stellen Sie schließlich sicher, dass das Training interaktiv und ansprechend ist.
+Stellen Sie schließlich sicher, dass das Training interaktiv und ansprechend ist. 
