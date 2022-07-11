@@ -63,7 +63,7 @@ function createSitemap() {
         xml += "</url>\n";
     });
 
-    xml += "<urlset>\n";
+    xml += "</urlset>\n";
 
 
     // write the sitemap.xml file
