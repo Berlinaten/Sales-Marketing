@@ -3,6 +3,8 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
+    "export": "next export",
+    "postexport": "node utils/post-export.script.js",
     "start": "next start"
   },
   "dependencies": {
