@@ -2,7 +2,7 @@
 title: 'Verkaufssituationen einfach meistern '
 date: '10.07.2022'
 excerpt: 'Es gibt verschiedene Arten von Verkaufssituationen'
-cover_image: '/images/posts/Verkaufssituationen.jpg'
+cover_image: '/images/posts/verkaufssituationen.jpg'
 ---
 ## Verkaufssituationen einfach meistern
 
